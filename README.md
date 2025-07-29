@@ -52,5 +52,6 @@ This is a basic prototype for learning purposes.
 
 Make sure your .pkl files are properly generated using the same preprocessing logic.
 
-✨ Developed by Rammani Pandey
+✨ Developed by Emmanuel Duodu
+
 
